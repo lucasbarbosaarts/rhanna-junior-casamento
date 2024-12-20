@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fafafa;
+}
+
+#casamento {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    color: #fafafa;
+}
+
+.caixa {
+    margin-top: 30px;
+}
+
+.caixa img {
+    width: 350px;
+    align-items: center;
+}
+
+.caixa footer {
+    margin-top: 50px;
+}
+
+.agendar {
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #039BE5;
+    color: #fafafa;
+}
